@@ -1,1 +1,1 @@
-"{\"type\":\"fileevent\",\"message0\":\"fileEvent - filename %1\",\"args0\":[{\"type\":\"input_value\",\"name\":\"filename\"}],\"output\":null,\"colour\":345,\"tooltip\":\"\",\"helpUrl\":\"\"}"
+"{\"type\":\"fileevent\",\"message0\":\"fileEvent - filename %1 filecontent %2\",\"args0\":[{\"type\":\"input_value\",\"name\":\"filename\"},{\"type\":\"input_value\",\"name\":\"filecontent\",\"align\":\"RIGHT\"}],\"output\":null,\"colour\":345,\"tooltip\":\"\",\"helpUrl\":\"\"}"
