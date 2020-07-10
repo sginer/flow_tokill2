@@ -1,1 +1,1 @@
-"{\"type\":\"restevent\",\"message0\":\"restEvent - body %1\",\"args0\":[{\"type\":\"input_value\",\"name\":\"body\"}],\"output\":null,\"colour\":345,\"tooltip\":\"\",\"helpUrl\":\"\"}"
+"{\"type\":\"restevent\",\"message0\":\"restEvent - body %1 fdf %2\",\"args0\":[{\"type\":\"input_value\",\"name\":\"body\"},{\"type\":\"input_value\",\"name\":\"fdf\",\"align\":\"RIGHT\"}],\"output\":null,\"colour\":345,\"tooltip\":\"\",\"helpUrl\":\"\"}"
